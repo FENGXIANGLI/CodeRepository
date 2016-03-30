@@ -1,0 +1,6 @@
+除了socket相关的以外，还没有实现的：
+1. multi player模式的controller
+2. music settings on/off
+
+运行：
+编译后运行Window类
